@@ -3,7 +3,7 @@ board = [[" "," "," "],[" ", " ", " "],[" ", " ", " "]]
 player = "X"
 
 '''
-Print the board in a visually pleasing way
+Print the board
 '''
 def printBoard(board):
     for line in board:
